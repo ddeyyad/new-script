@@ -328,7 +328,7 @@ local TargetGears = {
 }
 
 task.spawn(function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/chocolascript-glitch/Chocola-Auto-Spin-RNG/refs/heads/main/script.lua"))()
+    loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/738145c1e61953960c524fb2f9c30b72.lua"))()
 
     task.wait(1)
 
